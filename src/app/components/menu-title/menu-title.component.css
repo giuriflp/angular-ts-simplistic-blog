@@ -1,0 +1,16 @@
+/* .container-title-menu {
+  color: white;
+} */
+
+.container-title-menu h1 {
+  margin: 15px auto;
+  font-size: 6rem;
+  display: flex;
+  justify-content: center;
+  font-family: "Segoe UI";
+  color: rgb(255, 255, 255);
+}
+
+.container-title-menu hr {
+  margin: 20px auto;
+}

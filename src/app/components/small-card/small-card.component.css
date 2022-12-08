@@ -1,0 +1,33 @@
+.container-small-card {
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  margin-bottom: 20px;
+}
+
+.pic-small-card {
+  width: 200px;
+  min-width: 200px;
+}
+
+.pic-small-card img {
+  margin: auto;
+}
+
+.title-small-card h1 {
+  font-size: 1.4rem;
+}
+
+.detail-container {
+  position: relative;
+}
+.detail-small-card {
+  position: absolute;
+  width: 300px;
+  height: 1px;
+  background-color: rgb(50, 50, 50);
+  top: 60px;
+  right: 0px;
+}
